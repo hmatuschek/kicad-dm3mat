@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 (module Transformer_1P_1S_Toroid_Vertical_D10.5mm_Amidon-T37 (layer F.Cu) (tedit 5DD2C508)
+=======
+(module Transformer_1P_1S_Toroid_Vertical_D10.5mm_Amidon-T37 (layer F.Cu) (tedit 5DD4006D)
+>>>>>>> 04172ec278a7d8b9b1fbfceb702a1daf9b91c23c
   (descr "L_Toroid, Vertical series, Radial, pin pitch=5.08mm, , length*width=10*5mm^2")
   (tags "L_Toroid Vertical series Radial pin pitch 5.08mm  length 10mm width 5mm")
   (fp_text reference REF** (at 0 -4.79) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+<<<<<<< HEAD
   (fp_text value Transformer_1P_1S_Toroid_Vertical_D10.5mm_Amidon-T37 (at 0 5.08) (layer F.Fab)
+=======
+  (fp_text value Transformer_1P_1S_Toroid_Vertical_D10.5mm_Amidon-T37 (at 0 4.79) (layer F.Fab)
+>>>>>>> 04172ec278a7d8b9b1fbfceb702a1daf9b91c23c
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5 -2.5) (end -5 2.5) (layer F.Fab) (width 0.1))
@@ -40,6 +48,15 @@
   (pad 2 thru_hole circle (at 2.54 2.54) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -5.08 -2.54) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at -2.54 -2.54) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+<<<<<<< HEAD
+  (model ${KIPRJMOD}/DM3MAT/DM3MAT.3dshapes/Transformer_1P_1S_Toroid_Vertical_D10.5mm_Amidon-FT37.step
+=======
+  (model ${KISYS3DMOD}/Inductor_THT.3dshapes/L_Toroid_Vertical_L10.0mm_W5.0mm_P5.08mm.wrl
+>>>>>>> 04172ec278a7d8b9b1fbfceb702a1daf9b91c23c
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
   (model ${KIPRJMOD}/DM3MAT/DM3MAT.3dshapes/Transformer_1P_1S_Toroid_Vertical_D10.5mm_Amidon-FT37.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
