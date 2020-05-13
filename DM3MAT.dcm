@@ -22,6 +22,10 @@ $CMP Diode-Mixer
 D -7dB diode-ring mixer
 $ENDCMP
 #
+$CMP FST3253
+D Dual 4:1 Multiplexer/Demultiplexer Bus Switch
+$ENDCMP
+#
 $CMP L
 D Inductor
 K inductor choke coil reactor magnetic
