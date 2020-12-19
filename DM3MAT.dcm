@@ -56,4 +56,10 @@ K transformer coil magnet
 F ~
 $ENDCMP
 #
+$CMP Transformer_Current-Sense_Bin
+D Transformer, single primary, single secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
 #End Doc Library
